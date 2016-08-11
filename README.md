@@ -5,7 +5,6 @@ Based on https://github.com/swoole/redis-async.
 Improve to support pub/sub.
 
 
-
 ### How to use
 
 ####1. Install swoole extension
