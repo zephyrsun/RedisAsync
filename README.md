@@ -4,6 +4,9 @@ Based on https://github.com/swoole/redis-async.
 
 Improve to support pub/sub.
 
+```
+RedisAsync has moved to https://github.com/zephyrsun/swoolet/blob/master/Swoolet/Data/RedisAsync.php
+```
 
 ### How to use
 
